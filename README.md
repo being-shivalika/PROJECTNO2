@@ -51,22 +51,6 @@ src/
 
 ---
 
-## Installation
-
-1. Clone the repository
-   git clone https://github.com/your-username/horizon-real-estate.git
-
-2. Navigate to the project folder
-   cd horizon-real-estate
-
-3. Install dependencies
-   npm install
-
-4. Start the development server
-   npm run dev
-
----
-
 ## Customization
 
 You can easily customize:
